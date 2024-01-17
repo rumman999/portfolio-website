@@ -1,0 +1,69 @@
+.nav-text{
+    color: black;
+    font-size: 1.1em;
+    border-radius: 1;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+
+.nav-text:hover{
+    color: black;
+    background-color: rgba(63, 63, 63, 0.5);
+    border-radius: 1;
+}
+
+.hero{
+    background-image: url(../images/background.png);
+    background-repeat: repeat;
+    background-position: center;  
+}
+
+.nav-heading1{
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 120px;
+    
+}
+
+.nav-heading2{
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 50px;
+}
+
+.heading1{
+    color: rgb(0, 0, 0, 0.72);
+    font-family: sans-serif;
+    
+}
+
+
+
+.footer{
+    background-color: #737373;
+
+}
+
+.text1{
+    font-family: 'Public Sans', sans-serif;
+    color: #A59E8F;
+    font-weight: 500;
+}
+
+.text2{
+    font-family: 'Public Sans', sans-serif;
+    color: #A59E8F;
+}
+
+.about-me{
+    background-color: #A59E8F;
+}
+
+.contact-me{
+    background-color: #A59E8F;
+}
+
+.text1:hover{
+    color: rgb(219, 178, 115);
+}
